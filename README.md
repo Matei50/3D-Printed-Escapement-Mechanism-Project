@@ -1,5 +1,6 @@
 \# 3D Printed Escapement Mechanism Project
 
+<img width="1920" height="1080" alt="Clock design" src="https://github.com/user-attachments/assets/26ebd96e-6c19-4947-9061-6fd4d0795154" />
 
 
 \## Overview
