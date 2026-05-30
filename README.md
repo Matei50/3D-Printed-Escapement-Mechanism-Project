@@ -184,6 +184,8 @@ Through this project, I practiced:
 
 \- Preparing a model for printing and assembly
 
+\- Video demonstrating the wheels movement:
+https://youtu.be/PWQxe3Xppz8
 
 <img width="1456" height="778" alt="Screenshot 2026-05-30 at 18 58 55" src="https://github.com/user-attachments/assets/0ac6a5df-5aab-4e9e-a3ad-1270573b3279" />
 
