@@ -185,6 +185,12 @@ Through this project, I practiced:
 \- Preparing a model for printing and assembly
 
 
+<img width="1456" height="778" alt="Screenshot 2026-05-30 at 18 58 55" src="https://github.com/user-attachments/assets/0ac6a5df-5aab-4e9e-a3ad-1270573b3279" />
+
+<img width="1469" height="768" alt="Screenshot 2026-05-30 at 18 55 43" src="https://github.com/user-attachments/assets/53457066-2a4c-4328-8b40-76af429c68fd" />
+
+<img width="1470" height="790" alt="Screenshot 2026-05-30 at 19 00 23" src="https://github.com/user-attachments/assets/831e37d3-75ac-4a0e-8421-c1588df2fda5" />
+
 
 \## Credits
 
