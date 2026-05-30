@@ -2,6 +2,13 @@
 
 <img width="1920" height="1080" alt="Clock design" src="https://github.com/user-attachments/assets/26ebd96e-6c19-4947-9061-6fd4d0795154" />
 
+<img width="1920" height="1080" alt="Clock design TOP" src="https://github.com/user-attachments/assets/1dea8804-3552-40f7-bdba-548f58ae0a3f" />
+
+<img width="1920" height="1080" alt="Clock design Right SIDE" src="https://github.com/user-attachments/assets/bd7a349d-2e51-44da-ad62-180e3223d439" />
+
+<img width="1920" height="1080" alt="Clock design Left SIDE" src="https://github.com/user-attachments/assets/198122f2-0e22-44f7-b152-2e4972be2118" />
+
+
 
 \## Overview
 
